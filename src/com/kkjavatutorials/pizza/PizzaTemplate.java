@@ -1,5 +1,9 @@
 package com.kkjavatutorials.pizza;
-
+/**
+ * 
+ * @author KK JavaTutorials
+ *
+ */
 public abstract class PizzaTemplate {
 
 	public final void preparePizza() {
