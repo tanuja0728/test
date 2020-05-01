@@ -1,9 +1,5 @@
 package com.kkjavatutorials.pizza;
-/**
- * 
- * @author Kishan Kumar
- *
- */
+
 public class NonVegPizza extends PizzaTemplate {
 
 	@Override
