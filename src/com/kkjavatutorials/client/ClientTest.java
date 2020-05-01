@@ -3,7 +3,11 @@ package com.kkjavatutorials.client;
 import com.kkjavatutorials.pizza.NonVegPizza;
 import com.kkjavatutorials.pizza.PizzaTemplate;
 import com.kkjavatutorials.pizza.VegPizza;
-
+/**
+ * 
+ * @author KK JavaTutorials
+ *
+ */
 public class ClientTest {
 
 	public static void main(String[] args) {
@@ -11,7 +15,7 @@ public class ClientTest {
 		PizzaTemplate pizzaTemplate = new VegPizza();
 		pizzaTemplate.preparePizza();
 		
-		System.out.println("--------------------------------");
+		System.out.println("----------------------------------");
 		
 		pizzaTemplate = new NonVegPizza();
 		pizzaTemplate.preparePizza();
