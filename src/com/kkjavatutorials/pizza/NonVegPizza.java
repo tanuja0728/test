@@ -2,7 +2,7 @@ package com.kkjavatutorials.pizza;
 /**
  * 
  * @author KK JavaTutorials
- *
+ *This class is the one of implementation of Template
  */
 public class NonVegPizza extends PizzaTemplate {
 

@@ -6,7 +6,7 @@ import com.kkjavatutorials.pizza.VegPizza;
 /**
  * 
  * @author KK JavaTutorials
- *
+ *This is Client program for Template design Pattern
  */
 public class ClientTest {
 
